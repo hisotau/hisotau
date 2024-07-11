@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2 align="left">Привет 👋 рад тебя тут видеть.</h2>
 
-<!--
-**hisotau/hisotau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Обо мне:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/b4/5e/05/b45e05012b401beb7167b77322a11b61.gif"  />
+
+###
+
+<h4 align="left">Меня зовут: Рома<br>Мой возраст: 18<br>День рождение: 30.01<br><br>Занимаюсь разработкой плагинов для серверов Майнкрафт<br>или делаю различные плюхи на C# ну и занимаюсь графическим дизайном</h4>
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/736x/d6/c0/10/d6c010773c02612476b70a5ef9d4db6e.jpg"  />
+
+###
+
+<p align="left">Все мои социальные сети находятся в данном телеграмм канале<br>(клик по кнопке ниже).</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="105" alt="telegram logo"  />
+</div>
+
+###
