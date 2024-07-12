@@ -18,12 +18,6 @@
 
 ###
 
-<p align="left">Все мои социальные сети находятся в данном телеграмм канале<br>(клик по кнопке ниже).</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="105" alt="telegram logo"  />
-</div>
+<p align="left">Все мои социальные сети находятся в данном телеграмм канале: https://t.me/fatesocials.</p>
 
 ###
